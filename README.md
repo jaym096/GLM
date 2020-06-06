@@ -1,14 +1,14 @@
 # Generalized Linear Model (GLM)
-This is an academic project done in the course CSCI-B55 Machine Learning at Indiana University.
+This is an academic project done in the course **CSCI-B55 Machine Learning** at Indiana University.
 
 Tools and Technology: Python, NumPy
 
-Implemented the pipeline for GLMs from scratch including Logistic, Poisson and Ordinal regression using second-level maximum likelihood by 
-approximating the posterior using Laplace approximation. Optimized the hyperparameters of the GLM using random search and compared the
-performances. 
+Implemented the pipeline for **GLMs** from scratch including **Logistic**, **Poisson** and **Ordinal regression** using second-level 
+maximum likelihood by approximating the posterior using Laplace approximation. Optimized the hyperparameters of the GLM using **random 
+search** and compared the performances. 
 
-The project consists of 4 code files (.py):
-main.py, supporting_func.py, glm.py, alpha_tunning.py
+The project consists of 4 code files (.py):\
+_main.py_, _supporting_func.py_, _glm.py_, _alpha_tunning.py_
 
 The pp3data folder contains all the data set required for this project. The code considers that the data folder is in the same directory 
 as the code.
