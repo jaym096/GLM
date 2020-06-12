@@ -1,7 +1,7 @@
 # Generalized Linear Model (GLM)
 This is an academic project done in the course **CSCI-B55 Machine Learning** at Indiana University.
 
-**Tools and Technology**: Python, NumPy
+**Tools and Technology used**: Python, NumPy
 
 Implemented the pipeline for **GLMs** from scratch including **Logistic**, **Poisson** and **Ordinal regression** using second-level 
 maximum likelihood by approximating the posterior using Laplace approximation. Optimized the hyperparameters of the GLM using **random 
